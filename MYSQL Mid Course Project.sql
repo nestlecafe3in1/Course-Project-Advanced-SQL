@@ -224,7 +224,7 @@ SET @incrementalcvr =
 SELECT @incrementalcvr; # 0.87% increase in conversion rate between old lander page and new lander page
 
 SELECT
-	COUNT(DISTINCT website_session_id) * @incrementalcvr
+	COUNT(DISTINCT website_session_id) * @incrementalcvr AS incremental_orders
     # Total sessions since end of test * Conversion rate difference = Increment in order count due to the new lander page
 FROM website_sessions
 WHERE 
