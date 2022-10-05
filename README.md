@@ -10,3 +10,23 @@ For this mid course project, my objective is to tell the story of my company's g
 
 ## Questions Asked
 ### Gsearch seems to be the biggest driver of our business. Could you pull Monthly Trends for gsearch sessions and orders so that we can showcase the growth there?
+![image](https://user-images.githubusercontent.com/113234853/194018302-e8151306-5311-48f3-ae12-809df7bdbd55.png)
+[View Tableau Public Details](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn1/Chart1)
+
+### Next, it would be great to see a similar monthly trend for Gsearch, but this time splitting nonbrand and brand campaigns separately. I am wondering if brand is picking up at all. If so, this is a good story to tell
+![image](https://user-images.githubusercontent.com/113234853/194021082-5c8e0af5-43c5-4f16-8e98-0ee3432c6028.png)
+View Tableau Public Details for [first](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn2/Chart2_1) and [second](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn2_2/Chart2_2) graph
+
+### While we're on Gsearch, could you dive into nonbrand and pull monthly sessions and orders split by device type? I want to flex our analytical skills and show the board we really know our traffic sources
+![image](https://user-images.githubusercontent.com/113234853/194022929-57b3ba21-96af-4788-98e0-2f3062da9863.png)
+View Tableau Public Details for [first](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn3_1/Chart3_1) and [second](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn3_2/Chart3_2) graph
+
+### I'm worried that one of our more pessimistic board members may be concerned about the large % of traffic from Gsearch, Can you pull monthly trends for Gsearch, along side monthly trends for each of our other channels?
+![image](https://user-images.githubusercontent.com/113234853/194024012-08b2a1be-5c1f-423c-a94f-cd2578f7687c.png)
+[View Tableau Public Details](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn4/Chart4)
+
+### I'd like to tell the story of our website performance improvements over the course of the first 8 months. Could you pull session to order conversion rates, by month
+![image](https://user-images.githubusercontent.com/113234853/194024991-6ff300cb-6bf2-47a1-8770-d5024973a6a7.png)
+[View Tableau Public Details](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn5/Chart5)
+
+### From the Gsearch lander test, please estimate the revenue that test (Jun19 - Jul 28) earned us
