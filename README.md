@@ -79,5 +79,17 @@ As you can see, it was calculated that there were 200 additional orders since th
 
 #### Visualization of conversion funnel (New lander page)
 ![MYSQL qn 7 chart lander](https://user-images.githubusercontent.com/113234853/194037879-b5383c9c-8f19-41f7-ae70-fb31e017a566.png)
-[View Tableau Public Details][https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn4/Chart4](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn6/Chart6))
+[View Tableau Public Details](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn6/Chart6)
 
+### I'd love for you to quantify the impact of our billing test, as well. Please analyze the lift generated from the test (Sep10 - Nov10), in terms of revenue per billing page session, and then pull the number of billing page sessions for the past month to understand monthly impact.
+The test administered was the implementation of a new billing page alongside the old billing page. Similarly to one of the previous questions, I first calculated the increase in revenue per billing page session during the test itself (Sep10 - Nov10). Here are the results:
+
+
+![image](https://user-images.githubusercontent.com/113234853/194043795-80ebe812-0385-4d00-a894-b572dc9c1fb3.png)
+
+It can be seen that the new billing page generated $8.51/billing page session more when compared to the old billing page. I then multiplied this value to the total number of sessions created since the last month to calculate the increase in revenue due to the new billing page:
+
+![image](https://user-images.githubusercontent.com/113234853/194044050-f72c7844-7cc0-4630-b952-e746fadc792b.png)
+
+As you can see, we have experienced an increase in revenue by $10152.43 over the last month due to the new billing page.
+*I am operating under the assumption that revenue per billing page session remains constant after the test*
