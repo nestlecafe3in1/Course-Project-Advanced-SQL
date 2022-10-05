@@ -41,3 +41,6 @@ As you can see, there is a 0.87% increase in conversion rate when switching from
 As you can see, it was calculated that there were 200 additional orders since the end date of test (7/29) due to the new landing page. Since 4 Months have passed, roughly 50 extra orders per month due to new landing page.
 
 *I am operating on the assumption that the session-to-order conversion rate for the new landing page remains unchanged since the test* 
+
+### For the landing page test you analyzed previously, it would be great to show a full conversion funnel from each of the two pages to orders. You can use the same time period you analyzed last time (Jun19 - Jul28)
+
