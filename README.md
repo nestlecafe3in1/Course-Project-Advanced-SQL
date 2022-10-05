@@ -30,3 +30,14 @@ View Tableau Public Details for [first](https://public.tableau.com/app/profile/j
 [View Tableau Public Details](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn5/Chart5)
 
 ### From the Gsearch lander test, please estimate the revenue that test (Jun19 - Jul 28) earned us
+In order to find the estimated revenue from the test, I first calculated the increase in session-to-order conversion rate from the old landing page to the new landing page during the test itself (Jun19 - Jul 28). Here are the results:
+
+![image](https://user-images.githubusercontent.com/113234853/194029079-0fa119d7-8e4c-42f0-b2fc-f979f6a6d95f.png)
+
+As you can see, there is a 0.87% increase in conversion rate when switching from the old lander page to the new lander page. I then multiplied this value to the total number of sessions created since the end of the test to find the difference in order count:
+
+![image](https://user-images.githubusercontent.com/113234853/194029901-1048a634-787a-442b-b45f-e80597158b3e.png)
+
+As you can see, it was calculated that there were 200 additional orders since the end date of test (7/29) due to the new landing page. Since 4 Months have passed, roughly 50 extra orders per month due to new landing page.
+
+*I am operating on the assumption that the session-to-order conversion rate for the new landing page remains unchanged since the test* 
