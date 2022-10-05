@@ -93,3 +93,6 @@ It can be seen that the new billing page generated $8.51/billing page session mo
 
 As you can see, we have experienced an increase in revenue by $10152.43 over the last month due to the new billing page.
 *I am operating under the assumption that revenue per billing page session remains constant after the test*
+
+## Reflection and Challenges
+This mid course project provided a variety of complex SQL query questions required many nestled queries for me to solve with the combined usage of the COUNT and CASE clauses. It proved slightly challenging to me but it was an interesting challenge for me to overcome in SQL. Additionally, the use of Tableau for visualisation is not required for the course but I wanted to apply what I have learnt from a previous course (which only covered the basics). Tableau proved to be the most challenging and time-consuming portion of the project and it is clear I need to brush up on my visualisation skill. Nonetheless, this project was an enlightening and fun experience for me to discover what I am lacking in data analytics.
