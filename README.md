@@ -38,7 +38,7 @@ For this mid course project, my objective is to tell the story of my company's g
 [View Tableau Public Details](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn3_1/Chart3_1)
 
 #### Visualisation of Conversion Rates between Mobile and Desktop
-![MYSQL question 3 1 graph](https://user-images.githubusercontent.com/113234853/194041095-7f4fa5c4-6964-4acb-97f4-0737e78252d2.png)
+![mysql question 3 2 chart](https://user-images.githubusercontent.com/113234853/194210673-24fdb108-020c-4889-8d7c-cc50292f065b.png)
 [View Tableau Public Details](https://public.tableau.com/app/profile/jun.keat/viz/AdvancedSQLProjectQn3_2/Chart3_2)
 
 ### I'm worried that one of our more pessimistic board members may be concerned about the large % of traffic from Gsearch, Can you pull monthly trends for Gsearch, along side monthly trends for each of our other channels?
